@@ -1,18 +1,10 @@
 <div align="center">
 
-<!-- Cabeçalho sem fundo azul - apenas uma linha sutil -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=header"/>
-
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=160&section=header"/>
 
 <a href="https://github.com/dione-lima">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFBF&center=true&vCenter=true&width=900&lines=Dione+Lima;Cybersecurity+Specialist;Pentester;Red+Team;Offensive+Security" />
 </a>
-
-<br><br>
-
-<!-- Ícone profissional de cybersecurity (substituindo o de IA) -->
-<img src="https://img.shields.io/badge/🛡️-Cybersecurity_Professional-00BFBF?style=for-the-badge&labelColor=0D1117"/>
 
 <br><br>
 
@@ -81,58 +73,17 @@ src="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contr
 
 ---
 
-<h2 align="center">Projetos</h2>
+<h2 align="center">Certificações</h2>
 
 <div align="center">
 
-<table>
-<tr>
+<img src="https://img.shields.io/badge/CEH-v12-00BFBF?style=for-the-badge"/>
 
-<td align="center" width="33%">
-<a href="https://github.com/dione-lima/duno-ctf">
-<img src="https://img.shields.io/badge/DUNO%20CTF-Pentest%20Labs-00BFBF?style=for-the-badge&logo=docker&logoColor=C9D1D9&labelColor=161B22"/>
-</a>
-<br>
-<img src="https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-161B22?style=flat-square&labelColor=161B22"/>
-<br><br>
-<sub>Plataforma para laboratórios de Pentest utilizando Docker.</sub>
-</td>
+<img src="https://img.shields.io/badge/CPTE-Penetration_Testing-00BFBF?style=for-the-badge"/>
 
-<td align="center" width="33%">
-<a href="https://github.com/dione-lima/jwt-lab">
-<img src="https://img.shields.io/badge/JWT%20LAB-JSON%20Web%20Tokens-00BFBF?style=for-the-badge&logo=jsonwebtokens&logoColor=C9D1D9&labelColor=161B22"/>
-</a>
-<br>
-<img src="https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-161B22?style=flat-square&labelColor=161B22"/>
-<br><br>
-<sub>Laboratório de exploração JWT.</sub>
-</td>
+<img src="https://img.shields.io/badge/CSAE-Security_Architecture-00BFBF?style=for-the-badge"/>
 
-<td align="center" width="33%">
-<a href="https://github.com/dione-lima/owasp-top10-lab">
-<img src="https://img.shields.io/badge/OWASP%20TOP%2010%20LAB-Vulnerable%20Apps-00BFBF?style=for-the-badge&logo=owasp&logoColor=C9D1D9&labelColor=161B22"/>
-</a>
-<br>
-<img src="https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-161B22?style=flat-square&labelColor=161B22"/>
-<br><br>
-<sub>Coleção de aplicações vulneráveis.</sub>
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<h2 align="center">Certificações</h2>
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-
-<img src="https://img.shields.io/badge/CEH-v12-00BFBF?style=for-the-badge&labelColor=161B22"/>
-<img src="https://img.shields.io/badge/CPTE-Penetration_Testing-00BFBF?style=for-the-badge&labelColor=161B22"/>
-<img src="https://img.shields.io/badge/CSAE-Security_Architecture-00BFBF?style=for-the-badge&labelColor=161B22"/>
-<img src="https://img.shields.io/badge/CNSE-Network_Security-00BFBF?style=for-the-badge&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/CNSE-Network_Security-00BFBF?style=for-the-badge"/>
 
 </div>
 
@@ -140,7 +91,7 @@ src="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contr
 
 <h2 align="center">Tecnologias</h2>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git,vscode&theme=dark"/>
 
@@ -148,14 +99,20 @@ src="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contr
 
 <br>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+<div align="center">
 
 <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </div>
@@ -164,7 +121,7 @@ src="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contr
 
 <h2 align="center">CTF & Bug Bounty</h2>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+<div align="center">
 
 <a href="https://www.hackthebox.com/">
 <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
@@ -188,7 +145,7 @@ src="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contr
 
 <h2 align="center">Contato</h2>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+<div align="center">
 
 <a href="https://github.com/dione-lima">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -218,4 +175,4 @@ src="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contr
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=footer"/>
