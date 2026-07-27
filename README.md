@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <a href="https://github.com/dionebr">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=800&lines=Dione+Lima;Cybersecurity+Specialist;Network+Security+%7C+Ethical+Hacking+%7C+Security+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=800&lines=Dione+Lima;Cybersecurity+Specialist;Pentester;Red+Team" alt="Typing SVG" />
 </a>
 
 </div>
