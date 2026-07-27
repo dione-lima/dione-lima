@@ -12,35 +12,38 @@
 
 ## 👋 Sobre mim
 
-Profissional de segurança cibernética com foco em **segurança de redes**, **hacking ético** e **arquitetura de segurança**. Gosto de entender como os sistemas quebram para ajudar a construí-los mais resistentes.
+Profissional de segurança cibernética com foco em **Segurança de Redes**, **Hacking Ético**, **Pentest** e **Arquitetura de Segurança**. Apaixonado por compreender como sistemas podem ser explorados para ajudá-los a se tornarem mais seguros.
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dion-lima&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dione-lima&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Linguagens mais usadas" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dione-lima&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dione-lima&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages"/>
+
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake comendo as contribuições" src="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contribution-grid-snake.svg" />
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 <br/>
 
 ## 🏆 Certificações
 
-| Certificação | Ano | Status |
-|:--------------|:---:|:------:|
-| **CEH v12** — Certified Ethical Hacker | 2024 | ✅ |
-| **CSAE** — Certified Security Architecture Expert | 2024 | ✅ |
-| **CPTE** — Certified Penetration Testing Expert | 2024 | ✅ |
-| **CNSE** — Certified Network Security Expert | 2024 | ✅ |
-
-> ℹ️ Confira se os nomes/anos acima batem com suas certificações reais antes de publicar.
+| Certificação | Ano |
+|:-------------|:---:|
+| **CEH v12 – Certified Ethical Hacker** | 2024 |
+| **CSAE – Certified Security Architecture Expert** | 2024 |
+| **CPTE – Certified Penetration Testing Expert** | 2024 |
+| **CNSE – Certified Network Security Expert** | 2024 |
 
 <br/>
 
@@ -51,26 +54,24 @@ Profissional de segurança cibernética com foco em **segurança de redes**, **h
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
 
 </div>
 
 <br/>
 
-## 🎮 CTF & Bug Bounty
+## 🎯 CTF
 
 <div align="center">
 
-| Plataforma | Rank | Pontos | Bugs encontrados |
-|:-----------|:----:|:------:|:-----------------:|
-| **HackerOne** | — | — | — |
-| **Bugcrowd** | — | — | — |
-| **TryHackMe** | — | — | N/A |
-| **Hack The Box** | — | — | N/A |
-
-> ✏️ Preencha com seus números reais. Deixei em branco para você não publicar estatísticas fictícias.
+| Plataforma | Perfil |
+|:-----------|:------:|
+| Hack The Box | 🚧 |
+| TryHackMe | 🚧 |
+| HackerOne | 🚧 |
+| Bugcrowd | 🚧 |
 
 </div>
 
@@ -80,13 +81,11 @@ Profissional de segurança cibernética com foco em **segurança de redes**, **h
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO_AQUI)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SEU_USUARIO_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
 
 </div>
-
-> ✏️ Troque `SEU_USUARIO_AQUI` e `seu@email.com` pelos seus dados reais. Removi o Discord, o blog e a chave PGP porque estavam com valores de exemplo — adicione de volta se forem reais.
 
 <br/>
 
@@ -94,8 +93,9 @@ Profissional de segurança cibernética com foco em **segurança de redes**, **h
 
 **⚡ Quebrando sistemas para construí-los mais fortes ⚡**
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dione-lima&left_color=black&right_color=green)
-[![GitHub followers](https://img.shields.io/github/followers/dione-lima?label=Follow&style=social)](https://github.com/dione-lima)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dione-lima.dione-lima&left_color=black&right_color=00bfbf)
+
+[![GitHub followers](https://img.shields.io/github/followers/dione-lima?label=Followers&style=social)](https://github.com/dione-lima)
 
 </div>
 
