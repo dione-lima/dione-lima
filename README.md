@@ -17,15 +17,15 @@ Profissional de segurança cibernética com foco em **segurança de redes**, **h
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dionebr&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionebr&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Linguagens mais usadas" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dion-lima&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dione-lima&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Linguagens mais usadas" />
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dionebr/dionebr/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dionebr/dionebr/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake comendo as contribuições" src="https://raw.githubusercontent.com/dionebr/dionebr/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake comendo as contribuições" src="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -94,8 +94,8 @@ Profissional de segurança cibernética com foco em **segurança de redes**, **h
 
 **⚡ Quebrando sistemas para construí-los mais fortes ⚡**
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dionebr&left_color=black&right_color=green)
-[![GitHub followers](https://img.shields.io/github/followers/dionebr?label=Follow&style=social)](https://github.com/dionebr)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dione-lima&left_color=black&right_color=green)
+[![GitHub followers](https://img.shields.io/github/followers/dione-lima?label=Follow&style=social)](https://github.com/dione-lima)
 
 </div>
 
