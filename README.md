@@ -1,108 +1,148 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=header"/>
 
 <a href="https://github.com/dione-lima">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=800&lines=Dione+Lima;Cybersecurity+Specialist;Pentester;Red+Team" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00BFBF&center=true&vCenter=true&width=850&lines=Dione+Lima;Cybersecurity+Specialist;Pentester;Red+Team" />
 </a>
 
 </div>
 
-<br/>
+---
 
-## 👋 Sobre mim
+<h2 align="center">Sobre mim</h2>
 
-Profissional de segurança cibernética com foco em **Segurança de Redes**, **Hacking Ético**, **Pentest** e **Arquitetura de Segurança**. Apaixonado por compreender como sistemas podem ser explorados para ajudá-los a se tornarem mais seguros.
+<p align="center">
 
-<br/>
+Profissional de <strong>Cybersecurity</strong> especializado em <strong>Pentest</strong>,
+<strong>Red Team</strong>, <strong>Segurança de Redes</strong> e
+<strong>Arquitetura de Segurança</strong>.
+
+Apaixonado por compreender como sistemas podem ser explorados para
+ajudar organizações a fortalecer sua postura de segurança.
+
+</p>
+
+<br>
 
 <div align="center">
 
-<img
-  width="49%"
-  src="https://github-readme-stats-one-bice.vercel.app/api?username=dione-lima&show_icons=true&theme=github_dark&hide_border=true"
-/>
+<img height="170em" src="https://github-readme-stats-one-bice.vercel.app/api?username=dione-lima&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img
-  width="41%"
-  src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dione-lima&layout=compact&theme=github_dark&hide_border=true"
-/>
+<img height="170em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dione-lima&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contribution-grid-snake.svg">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contribution-grid-snake.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
 
-<br/>
+---
 
-## 🏆 Certificações
+<h2 align="center">Certificações</h2>
 
-| Certificação | Ano |
-|:-------------|:---:|
-| **CEH v12 – Certified Ethical Hacker** | 2024 |
-| **CSAE – Certified Security Architecture Expert** | 2024 |
-| **CPTE – Certified Penetration Testing Expert** | 2024 |
-| **CNSE – Certified Network Security Expert** | 2024 |
+<p align="center">
 
-<br/>
+<img src="https://img.shields.io/badge/CEH-v12-00bfbf?style=for-the-badge"/>
 
-## 🛠️ Stack & Ferramentas
+<img src="https://img.shields.io/badge/CPTE-Penetration_Testing-00bfbf?style=for-the-badge"/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/CSAE-Security_Architecture-00bfbf?style=for-the-badge"/>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
+<img src="https://img.shields.io/badge/CNSE-Network_Security-00bfbf?style=for-the-badge"/>
 
-</div>
+</p>
 
-<br/>
+---
 
-## 🎯 CTF
+<h2 align="center">Tecnologias & Ferramentas</h2>
 
 <div align="center">
 
-| Plataforma | Perfil |
-|:-----------|:------:|
-| Hack The Box | 🚧 |
-| TryHackMe | 🚧 |
-| HackerOne | 🚧 |
-| Bugcrowd | 🚧 |
+<img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git,vscode&theme=dark"/>
 
 </div>
 
-<br/>
+<br>
 
-## 🌐 Contato
+<p align="center">
+
+<img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge"/>
+
+</p>
+
+---
+
+<h2 align="center">CTF & Bug Bounty</h2>
+
+<p align="center">
+
+<a href="https://www.hackthebox.com/">
+<img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+</a>
+
+<a href="https://tryhackme.com/">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+</a>
+
+<a href="https://hackerone.com/">
+<img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone"/>
+</a>
+
+<a href="https://bugcrowd.com/">
+<img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd"/>
+</a>
+
+</p>
+
+---
+
+<h2 align="center">Contato</h2>
+
+<p align="center">
+
+<a href="https://github.com/dione-lima">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/SEU-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:seu@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
+### ⚡ Breaking systems to build them stronger ⚡
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+![](https://visitor-badge.laobi.icu/badge?page_id=dione-lima.dione-lima&left_color=0d1117&right_color=00bfbf)
 
-</div>
-
-<br/>
-
-<div align="center">
-
-**⚡ Quebrando sistemas para construí-los mais fortes ⚡**
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dione-lima.dione-lima&left_color=black&right_color=00bfbf)
-
-[![GitHub followers](https://img.shields.io/github/followers/dione-lima?label=Followers&style=social)](https://github.com/dione-lima)
+[![Followers](https://img.shields.io/github/followers/dione-lima?style=social)](https://github.com/dione-lima)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
