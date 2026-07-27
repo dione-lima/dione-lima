@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=160&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=160&section=header"/>
 
 <a href="https://github.com/dione-lima">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFBF&center=true&vCenter=true&width=900&lines=Dione+Lima;Cybersecurity+Specialist;Pentester;Red+Team;Offensive+Security" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Dione+Lima;Cybersecurity+Specialist;Pentester;Red+Team;Offensive+Security" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=dione-lima&label=Profile%20Views&color=00bfbf&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=dione-lima&label=Profile%20Views&color=58a6ff&style=for-the-badge"/>
 
 </div>
 
@@ -36,10 +36,10 @@ criar desafios CTF e contribuir para ambientes mais seguros.
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats-one-bice.vercel.app/api?username=dione-lima&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BFBF&icon_color=00BFBF&text_color=C9D1D9"/>
+src="https://github-readme-stats-one-bice.vercel.app/api?username=dione-lima&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
 
 <img height="180em"
-src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dione-lima&layout=compact&hide_border=true&bg_color=0D1117&title_color=00BFBF&text_color=C9D1D9"/>
+src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dione-lima&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
 </div>
 
@@ -48,7 +48,7 @@ src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dio
 <div align="center">
 
 <img width="98%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=dione-lima&bg_color=0D1117&color=C9D1D9&line=00BFBF&point=00BFBF&area=true&hide_border=true"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=dione-lima&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=58A6FF&area=true&hide_border=true"/>
 
 </div>
 
@@ -73,17 +73,61 @@ src="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contr
 
 ---
 
+<h2 align="center">Projetos</h2>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+<a href="https://github.com/dione-lima/duno-ctf">
+<img src="https://img.shields.io/badge/DUNO%20CTF-Pentest%20Labs-58A6FF?style=for-the-badge&logo=docker&logoColor=C9D1D9&labelColor=161B22"/>
+</a>
+<br>
+<img src="https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-161B22?style=flat-square&labelColor=161B22"/>
+<br><br>
+<sub>Plataforma para laboratórios de Pentest utilizando Docker.</sub>
+</td>
+
+<td align="center" width="33%">
+<a href="https://github.com/dione-lima/jwt-lab">
+<img src="https://img.shields.io/badge/JWT%20LAB-JSON%20Web%20Tokens-58A6FF?style=for-the-badge&logo=jsonwebtokens&logoColor=C9D1D9&labelColor=161B22"/>
+</a>
+<br>
+<img src="https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-161B22?style=flat-square&labelColor=161B22"/>
+<br><br>
+<sub>Laboratório de exploração JWT.</sub>
+</td>
+
+<td align="center" width="33%">
+<a href="https://github.com/dione-lima/owasp-top10-lab">
+<img src="https://img.shields.io/badge/OWASP%20TOP%2010%20LAB-Vulnerable%20Apps-58A6FF?style=for-the-badge&logo=owasp&logoColor=C9D1D9&labelColor=161B22"/>
+</a>
+<br>
+<img src="https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-161B22?style=flat-square&labelColor=161B22"/>
+<br><br>
+<sub>Coleção de aplicações vulneráveis.</sub>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
 <h2 align="center">Certificações</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CEH-v12-00BFBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CEH-v12-58A6FF?style=for-the-badge&labelColor=161B22"/>
 
-<img src="https://img.shields.io/badge/CPTE-Penetration_Testing-00BFBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CPTE-Penetration_Testing-58A6FF?style=for-the-badge&labelColor=161B22"/>
 
-<img src="https://img.shields.io/badge/CSAE-Security_Architecture-00BFBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CSAE-Security_Architecture-58A6FF?style=for-the-badge&labelColor=161B22"/>
 
-<img src="https://img.shields.io/badge/CNSE-Network_Security-00BFBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CNSE-Network_Security-58A6FF?style=for-the-badge&labelColor=161B22"/>
 
 </div>
 
@@ -167,7 +211,7 @@ src="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contr
 
 ### ⚡ Breaking systems to build them stronger ⚡
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=dione-lima.dione-lima&left_color=0D1117&right_color=00BFBF"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=dione-lima.dione-lima&left_color=0D1117&right_color=58A6FF"/>
 
 <br><br>
 
@@ -175,4 +219,4 @@ src="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contr
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=140&section=footer"/>
