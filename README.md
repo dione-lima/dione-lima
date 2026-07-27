@@ -1,10 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=160&section=header"/>
 
 <a href="https://github.com/dione-lima">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00BFBF&center=true&vCenter=true&width=850&lines=Dione+Lima;Cybersecurity+Specialist;Pentester;Red+Team" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFBF&center=true&vCenter=true&width=900&lines=Dione+Lima;Cybersecurity+Specialist;Pentester;Red+Team;Offensive+Security" />
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=dione-lima&label=Profile%20Views&color=00bfbf&style=for-the-badge"/>
 
 </div>
 
@@ -14,22 +18,37 @@
 
 <p align="center">
 
-Profissional de <strong>Cybersecurity</strong> especializado em <strong>Pentest</strong>,
-<strong>Red Team</strong>, <strong>Segurança de Redes</strong> e
-<strong>Arquitetura de Segurança</strong>.
+Cybersecurity Specialist com atuação em <b>Pentest</b>,
+<b>Red Team</b>,
+<b>Segurança de Redes</b>,
+<b>Arquitetura de Segurança</b> e
+<b>Application Security</b>.
 
-Apaixonado por compreender como sistemas podem ser explorados para
-ajudar organizações a fortalecer sua postura de segurança.
+Apaixonado por identificar vulnerabilidades, desenvolver laboratórios,
+criar desafios CTF e contribuir para ambientes mais seguros.
 
 </p>
+
+---
+
+<h2 align="center">GitHub Analytics</h2>
+
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats-one-bice.vercel.app/api?username=dione-lima&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BFBF&icon_color=00BFBF&text_color=C9D1D9"/>
+
+<img height="180em"
+src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dione-lima&layout=compact&hide_border=true&bg_color=0D1117&title_color=00BFBF&text_color=C9D1D9"/>
+
+</div>
 
 <br>
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-one-bice.vercel.app/api?username=dione-lima&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dione-lima&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="98%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=dione-lima&bg_color=0D1117&color=C9D1D9&line=00BFBF&point=00BFBF&area=true&hide_border=true"/>
 
 </div>
 
@@ -38,9 +57,16 @@ ajudar organizações a fortalecer sua postura de segurança.
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contribution-grid-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contribution-grid-snake.svg"/>
-<img width="100%" src="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contribution-grid-snake.svg"/>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contribution-grid-snake.svg">
+
+<img width="98%"
+src="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contribution-grid-snake.svg">
+
 </picture>
 
 </div>
@@ -49,21 +75,21 @@ ajudar organizações a fortalecer sua postura de segurança.
 
 <h2 align="center">Certificações</h2>
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/CEH-v12-00bfbf?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CEH-v12-00BFBF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/CPTE-Penetration_Testing-00bfbf?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CPTE-Penetration_Testing-00BFBF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/CSAE-Security_Architecture-00bfbf?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CSAE-Security_Architecture-00BFBF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/CNSE-Network_Security-00bfbf?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CNSE-Network_Security-00BFBF?style=for-the-badge"/>
 
-</p>
+</div>
 
 ---
 
-<h2 align="center">Tecnologias & Ferramentas</h2>
+<h2 align="center">Tecnologias</h2>
 
 <div align="center">
 
@@ -73,7 +99,7 @@ ajudar organizações a fortalecer sua postura de segurança.
 
 <br>
 
-<p align="center">
+<div align="center">
 
 <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 
@@ -87,13 +113,15 @@ ajudar organizações a fortalecer sua postura de segurança.
 
 <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge"/>
 
-</p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</div>
 
 ---
 
 <h2 align="center">CTF & Bug Bounty</h2>
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.hackthebox.com/">
 <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
@@ -111,13 +139,13 @@ ajudar organizações a fortalecer sua postura de segurança.
 <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <h2 align="center">Contato</h2>
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/dione-lima">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -128,10 +156,10 @@ ajudar organizações a fortalecer sua postura de segurança.
 </a>
 
 <a href="mailto:seu@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -139,10 +167,12 @@ ajudar organizações a fortalecer sua postura de segurança.
 
 ### ⚡ Breaking systems to build them stronger ⚡
 
-![](https://visitor-badge.laobi.icu/badge?page_id=dione-lima.dione-lima&left_color=0d1117&right_color=00bfbf)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=dione-lima.dione-lima&left_color=0D1117&right_color=00BFBF"/>
+
+<br><br>
 
 [![Followers](https://img.shields.io/github/followers/dione-lima?style=social)](https://github.com/dione-lima)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=footer"/>
