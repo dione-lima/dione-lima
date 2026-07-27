@@ -1,10 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=160&section=header"/>
+<!-- Cabeçalho sem fundo azul - apenas uma linha sutil -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=header"/>
+
+<br>
 
 <a href="https://github.com/dione-lima">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFBF&center=true&vCenter=true&width=900&lines=Dione+Lima;Cybersecurity+Specialist;Pentester;Red+Team;Offensive+Security" />
 </a>
+
+<br><br>
+
+<!-- Ícone profissional de cybersecurity (substituindo o de IA) -->
+<img src="https://img.shields.io/badge/🛡️-Cybersecurity_Professional-00BFBF?style=for-the-badge&labelColor=0D1117"/>
 
 <br><br>
 
@@ -210,4 +218,4 @@ src="https://raw.githubusercontent.com/dione-lima/dione-lima/output/github-contr
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer"/>
